@@ -1,4 +1,4 @@
-//arquivo para configurar o arquivo de configuração que o sequelize deverá usar.
+//arquivo para configurar o arquivo de configuração que o sequelize deverá usar..
 const path = require('path');
 
 module.exports = {
